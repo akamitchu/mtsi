@@ -54,16 +54,12 @@ class Main extends React.Component {
           </span>
           <p>
             Automation</p><p>
-            Testing</p><p>
             Analytics</p><p>
             CRM Implementation</p><p>
             Blockchain</p><p>
             IOT</p><p>
             Artificial Intelligence</p><p>
             CI/CD</p><p>
-            Consultancy Services</p><p>
-            Implementation Services</p><p>
-            Product Design & Development</p>
           {close}
         </article>
 
