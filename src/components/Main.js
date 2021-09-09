@@ -121,6 +121,7 @@ class Main extends React.Component {
               >
                 <span className="label">Email us</span>
               </a>
+            </li>
           </ul>
           {close}
         </article>
