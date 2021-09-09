@@ -53,14 +53,17 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Automation
-            Testing
-            CRM Implementation
-            Blockchain
-            IOT
-            Consultancy Services
-            Implementation Services
-            Product Design & Development
+            Automation<br>
+            Testing<br>
+            Analytics<br>
+            CRM Implementation<br>
+            Blockchain<br>
+            IOT<br>
+            Artificial Intelligence<br>
+            CI/CD<br>
+            Consultancy Services<br>
+            Implementation Services<br>
+            Product Design & Development<br>
           </p>
           {close}
         </article>
@@ -77,8 +80,10 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Incorporated in 2019, Mahajan Technology Solutions Inc. (MTSI) is based out of Vancouver, British Columbia, Canada. MTSI started out with a mission to 
-            Provide best-of-class software products and enable organizations to run their businesses and operations more effectively. We acheive that by delivering effective IT solutions and quality services to enhance the competitive advantages of our clients.
+            Incorporated in 2019, Mahajan Technology Solutions Inc. (MTSI) is based out of Vancouver, British Columbia, Canada. 
+            </p>
+            <p>
+            MTSI started out with a mission to provide best-in-class software products and enable organizations to run their businesses and operations more effectively. We acheive that by delivering effective IT solutions and quality services to enhance the competitive advantages of our clients.
           </p>
           {close}
         </article>
@@ -91,18 +96,18 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-          <form method="post" action="#">
+          <form method="POST" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSc1Sr6rVy8qx32caxvw_IAu7U500E5DnCdNUNXPAmWqz_rtFw/formResponse">
             <div className="field half first">
               <label htmlFor="name">Name</label>
-              <input type="text" name="name" id="name" />
+              <input type="text" id="1339838666" name="entry.1339838666" />
             </div>
             <div className="field half">
               <label htmlFor="email">Email</label>
-              <input type="text" name="email" id="email" />
+              <input id="1328659957" type="text" name="entry.1328659957" />
             </div>
             <div className="field">
               <label htmlFor="message">Message</label>
-              <textarea name="message" id="message" rows="4"></textarea>
+              <textarea id="941259398" name="entry.941259398" rows="4"></textarea>
             </div>
             <ul className="actions">
               <li>
@@ -121,7 +126,7 @@ class Main extends React.Component {
               >
                 <span className="label">Email us</span>
               </a>
-            </li>
+            </li><span className="label">Email us</span>
           </ul>
           {close}
         </article>
