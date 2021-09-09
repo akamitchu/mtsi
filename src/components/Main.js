@@ -53,18 +53,17 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Automation<br>
-            Testing<br>
-            Analytics<br>
-            CRM Implementation<br>
-            Blockchain<br>
-            IOT<br>
-            Artificial Intelligence<br>
-            CI/CD<br>
-            Consultancy Services<br>
-            Implementation Services<br>
-            Product Design & Development<br>
-          </p>
+            Automation</p><p>
+            Testing</p><p>
+            Analytics</p><p>
+            CRM Implementation</p><p>
+            Blockchain</p><p>
+            IOT</p><p>
+            Artificial Intelligence</p><p>
+            CI/CD</p><p>
+            Consultancy Services</p><p>
+            Implementation Services</p><p>
+            Product Design & Development</p>
           {close}
         </article>
 
